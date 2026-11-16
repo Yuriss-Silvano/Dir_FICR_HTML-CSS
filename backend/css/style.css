@@ -1,0 +1,18 @@
+p{
+    color:red;
+    text-align: center;
+    font-size: 24px;
+}
+
+h1{
+    color: blue;
+    font-size: 52px;
+    background-color: red;
+}
+
+body{
+    background-image:url('https://tenor.com/pt-BR/view/homem-aranha-superior-gif-17685992759778693257') ;
+    background-repeat: repeat;
+    background-position: right top;
+    padding: 10px;
+}
