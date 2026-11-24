@@ -1,7 +1,9 @@
 p{
-    color:red;
-    text-align: center;
+    color:rgb(6, 6, 85);
+    text-align: justify;
     font-size: 24px;
+    text-indent: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1{
@@ -15,4 +17,23 @@ body{
     background-repeat: repeat;
     background-position: right top;
     padding: 10px;
+}
+
+h1.titulo{
+    text-align: center;
+    font-size: 64px;
+    color: black;
+}
+
+table.texto{
+    background-color: red;
+    text-align: center;
+}
+
+p.link{
+    text-transform: capitalize;
+}
+
+p.subtext{
+    text-transform: uppercase;
 }
